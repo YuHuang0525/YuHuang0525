@@ -4,7 +4,7 @@ AI engineer working on agent workflows, context management, and the backend serv
 
 Currently contributing to [nanobot](https://github.com/YuHuang0525/nanobot) and building systems that sit at the intersection of distributed infra and LLM orchestration — where context pipelines meet event-driven architecture.
 
-Previously helped build the backend and infra foundation for an AI-native commercial insurance brokerage ([covered by TechCrunch](https://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed/)), powering their agentic workflows from the ground up.
+Previously helped build the backend and infra foundation for an AI-native commercial insurance brokerage ([news by TechCrunch](https://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed/)), powering their agentic workflows from the ground up.
 
 Before that, owned subscription management at **Amazon Alexa** — the service keeping Prime + Alexa+ alive across 80M Echo devices in the US. That's where I learned what "reliable" actually means.
 
